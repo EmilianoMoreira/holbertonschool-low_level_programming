@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*main- puts una frase
+ *
+ *Return :0
+ */
 int main(void)
 
 {
