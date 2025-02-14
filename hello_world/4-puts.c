@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main- puts una frase
+/**
+ * main - puts una frase
  *
  *Return :0
  */
