@@ -18,7 +18,7 @@ int main(void)
 
 	if ((n % 10) > 5)
 	{
-		printf("El último dígito de %d es %d es mayor que\n";
+		printf("El último dígito de %d es %d es mayor q 5 \n",
                         n, n % 10);
 	}
 	else if ((n % 10) < 6 && (n % 10) != 0)
