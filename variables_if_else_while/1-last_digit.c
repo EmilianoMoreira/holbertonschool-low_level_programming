@@ -4,8 +4,7 @@
 
 /**
  * main - Imprime el último dígito de un número gendo aleatoriamente
- * y si es mayor que 5, menor que 6 o 0.
- *        
+ * y si es mayor que 5, menor que 6 o 0
  *
  * Return: Always 0.
  */
