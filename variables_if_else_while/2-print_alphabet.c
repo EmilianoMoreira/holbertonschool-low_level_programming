@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Imprime el alfabeto en minúsculas y luego en mayúsculas.
+ * main - Imprime el alfabeto en minúscula.
  *
  * Return: 0
  */
@@ -12,9 +12,8 @@ int main(void)
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
-
-	for (letter = 'A'; letter <= 'Z'; letter++)
-		putchar(letter'\n');
+		
+	putchar('\n');
 
 	return (0);
 }
